@@ -15,4 +15,17 @@ University British Columbia Intro to Systematic Program Design: 2022-09-06, 2022
 
 section 2023
 ENG (Foundation) Python for Engineers Part I: 2023-04-17, 2023-04-21
+Harvard EDX CS50x Artificial Intelligence: 2023-06-25
+MIT Opencourware Mathematics for Computer Science: 2023-07-03
 ```
+
+**Current Learning**
+Harvard EDX CS50x Artificial Intelligence: Started 2023-06-25
+MIT Opencourware Mathematics for Computer Science: Started 2023-07-03
+
+**Languages** 
+Python
+SQL
+HTML, CSS, JS
+C, during CS50.
+SQL

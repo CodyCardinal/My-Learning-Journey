@@ -14,5 +14,5 @@ Harvard/EDX CS50x Introduction to Computer Science: 2022-07-30, 2022-12-04
 University British Columbia Intro to Systematic Program Design: 2022-09-06, 2022-11-17
 
 section 2023
-ENG (Foundation) Python for Engineers: Part I: 2023-04-17, 2023-04-21
+ENG (Foundation) Python for Engineers Part I: 2023-04-17, 2023-04-21
 ```

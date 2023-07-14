@@ -1,8 +1,8 @@
-# My-Learning-Journey
+# My-Learning-Journey (WIP)
 
 ```mermaid
 gantt
-    title My Learning Journey
+    title Coding Courses
 
     dateFormat YYYY-MM-DD
     axisFormat %Y-%m

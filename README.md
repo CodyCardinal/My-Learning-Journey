@@ -19,8 +19,9 @@ section Current
 ```
 
 **More of my work**
-- [My Cisco Github](https://github.com/ccardina)
+- [My Wife's Professional Portfolio Website](https://www.davinafaye.com)
 - [A Security Ops Starter script for customers at Cisco Umbrella.](https://github.com/CiscoDevNet/cloud-security/tree/master/Umbrella/Samples/SOCTools/NSD_Recheck)
+- [My Cisco Github](https://github.com/ccardina)
 
 **Languages** 
 - Python

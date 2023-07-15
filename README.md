@@ -18,6 +18,10 @@ section Current
 2023-07: "MIT OpenCourseware Mathematics for Computer Science"
 ```
 
+**More of my work**
+- [My Cisco Github](https://github.com/ccardina)
+- [A Security Ops Starter script for customers at Cisco Umbrella.](https://github.com/CiscoDevNet/cloud-security/tree/master/Umbrella/Samples/SOCTools/NSD_Recheck)
+
 **Languages** 
 - Python
 - SQL

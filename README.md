@@ -18,10 +18,6 @@ section Current
 2023-07: "MIT OpenCourseware Mathematics for Computer Science"
 ```
 
-**Current Learning**
-- Harvard EDX CS50x Artificial Intelligence: Started 2023-06-25
-- MIT Opencourware Mathematics for Computer Science: Started 2023-07-03
-
 **Languages** 
 - Python
 - SQL

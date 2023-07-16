@@ -35,7 +35,8 @@ section Current
 
 
 **Software Company Resume**
-[My Linkedin](https://www.linkedin.com/in/cody-cardinal-896b661b/)
+
+[Linkedin](https://www.linkedin.com/in/cody-cardinal-896b661b/)
 
 > **Cisco** 4yrs, 5mo
 - Technical Leader | Present, 10mo

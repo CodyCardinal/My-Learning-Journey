@@ -14,11 +14,9 @@ section Completed
 2022-09: "University British Columbia Intro to Systematic Program Design"
 2023-04: "ENG (Foundation) Python for Engineers Part I"
 section Current
-2023-06: "Harvard EDX CS50x Artificial Intelligence"
 2023-07: "MIT OpenCourseware Mathematics for Computer Science"
+2023-07: "The Web Developer Bootcamp 2023"
 ```
-
-
 
 **More of my coding work**
 - [My Wife's Professional Portfolio Website](https://www.davinafaye.com)
@@ -27,7 +25,7 @@ section Current
 
 
 
-**Languages** 
+**Languages**
 - Python
 - SQL
 - HTML, CSS, JS

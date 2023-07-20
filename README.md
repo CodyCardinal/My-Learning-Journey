@@ -27,7 +27,7 @@
 - C
 - SQL
 
-<h3>**Software Company Experience**</h3>
+**Software Company Experience**
 
 [Linkedin](https://www.linkedin.com/in/cody-cardinal-896b661b/)
 

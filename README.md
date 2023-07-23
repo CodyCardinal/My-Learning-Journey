@@ -8,11 +8,11 @@
 
 **Completed**
 
-- 2022-05: "ENG (Foundation) Introduction to Python for Non-Programmers"  | *Python*
+- 2022-05: "ENG (Foundation) Introduction to Python for Non-Programmers" by [Reuven Lerner](https://twitter.com/reuvenmlerner) | *Python*
 - 2022-07: "ENG (Foundation) API Development" | *Python, Flask*
 - 2022-07: "Harvard/EDX CS50x Introduction to Computer Science" | *C, Python, HTML, CSS, SQL*
 - 2022-09: "University British Columbia Intro to Systematic Program Design" | *Python, Testing, Function Design*
-- 2023-04: "ENG (Foundation) Python for Engineers Part I" | *Python*
+- 2023-04: "ENG (Foundation) Python for Engineers Part I" by [Raymond Hettinger](https://twitter.com/raymondh) | *Python*
 
 **Projects**
 - [CS50x Final Project](https://github.com/CodyCardinal/CS50Final) | *Python, Flask, HTML, CSS, Bootstrap, SQLite*
@@ -23,9 +23,8 @@
 **Languages**
 - Python
 - SQL
-- HTML, CSS, JS
+- HTML, CSS
 - C
-- SQL
 
 **Software Company Experience**
 

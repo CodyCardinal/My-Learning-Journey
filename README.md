@@ -23,7 +23,7 @@
 **Languages**
 - Python
 - SQL
-- HTML, CSS
+- HTML, CSS, Javascript
 - C
 
 **Software Company Experience**

@@ -28,8 +28,13 @@
 **Languages**
 - Python
 - SQL
-- HTML, CSS, Javascript
+- HTML, CSS
+- Javascript, React
 - C
+
+**Frameworks**
+- Node, Express, MongoDB
+- Flask, SQLite
 
 **Software Company Experience**
 

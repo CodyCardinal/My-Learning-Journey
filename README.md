@@ -4,9 +4,9 @@
 - 2023-07: ["MIT OpenCourseware Mathematics for Computer Science"](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/) | *Discrete Mathematics*
 
 **Next**
-[Harvey Mudd College: Digital Design](https://www.edx.org/learn/engineering/harvey-mudd-college-digital-design-2)
-[Harvey Mudd College: Computer Architecture](https://www.edx.org/learn/engineering/harvey-mudd-college-computer-architecture)
-[The University of California, San Diego: Data Structures: An Active Learning Approach](https://www.edx.org/learn/computer-science/the-university-of-california-san-diego-data-structures-an-active-learning-approach)
+- [Harvey Mudd College: Digital Design](https://www.edx.org/learn/engineering/harvey-mudd-college-digital-design-2)
+- [Harvey Mudd College: Computer Architecture](https://www.edx.org/learn/engineering/harvey-mudd-college-computer-architecture)
+- [The University of California, San Diego: Data Structures: An Active Learning Approach](https://www.edx.org/learn/computer-science/the-university-of-california-san-diego-data-structures-an-active-learning-approach)
 
 
 **Completed**

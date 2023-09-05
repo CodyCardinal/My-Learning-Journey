@@ -7,6 +7,7 @@
 - [Harvey Mudd College: Digital Design](https://www.edx.org/learn/engineering/harvey-mudd-college-digital-design-2)
 - [Harvey Mudd College: Computer Architecture](https://www.edx.org/learn/engineering/harvey-mudd-college-computer-architecture)
 - [The University of California, San Diego: Data Structures: An Active Learning Approach](https://www.edx.org/learn/computer-science/the-university-of-california-san-diego-data-structures-an-active-learning-approach)
+- [PHPandMySQL Book by John Duckett](https://phpandmysql.com/)
 
 
 ### **Completed**

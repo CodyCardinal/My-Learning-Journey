@@ -1,10 +1,13 @@
 # My Learning Journey
 
 **Current**
-- 2023-07: "The Web Developer Bootcamp 2023" | *HTML, CSS, Bootstrap, Javascript, AJAX, React, Node, MongoDB, and more.*
+- 2023-07: ["MIT OpenCourseware Mathematics for Computer Science"](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/) | *Discrete Mathematics*
 
 **Next**
-- 2023-07: "MIT OpenCourseware Mathematics for Computer Science" | *Discrete Mathematics*
+[Harvey Mudd College: Digital Design](https://www.edx.org/learn/engineering/harvey-mudd-college-digital-design-2)
+[Harvey Mudd College: Computer Architecture](https://www.edx.org/learn/engineering/harvey-mudd-college-computer-architecture)
+[The University of California, San Diego: Data Structures: An Active Learning Approach](https://www.edx.org/learn/computer-science/the-university-of-california-san-diego-data-structures-an-active-learning-approach)
+
 
 **Completed**
 
@@ -13,6 +16,7 @@
 - 2022-07: "Harvard/EDX CS50x Introduction to Computer Science" | *C, Python, HTML, CSS, SQL*
 - 2022-09: "University British Columbia Intro to Systematic Program Design" | *Python, Testing, Function Design*
 - 2023-04: "ENG (Foundation) Python for Engineers Part I" by [Raymond Hettinger](https://twitter.com/raymondh) | *Python*
+- 2023-07: "The Web Developer Bootcamp 2023" | *HTML, CSS, Bootstrap, Javascript, AJAX, React, Node, MongoDB, and more.*
 
 **Projects**
 - [CS50x Final Project](https://github.com/CodyCardinal/CS50Final) | *Python, Flask, HTML, CSS, Bootstrap, SQLite*

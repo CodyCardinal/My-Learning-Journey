@@ -1,5 +1,7 @@
 # My Learning Journey
 
+![DevOps Image](DevOpsPlan.png)
+
 ## **Current**
 - **September 2023:** [The Complete Modern PHP Developer](https://www.udemy.com/course/complete-modern-php-developer) | PHP
 - **July 2023:** [MIT OpenCourseware Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/) | Discrete Mathematics

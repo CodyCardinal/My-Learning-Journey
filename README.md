@@ -24,7 +24,7 @@
 - **July 2023:** [The Web Developer Bootcamp 2023](https://www.udemy.com/course/the-web-developer-bootcamp) | HTML, CSS, Bootstrap, Javascript, AJAX, React, Node, MongoDB, and more.
 - **September 2023:** [PHP for Complete Beginners](https://www.udemy.com/course/php-for-complete-beginners-includes-msql-object-oriented) | PHP, MYSQL, OOP, Apache
 - **September 2023:** [The Complete Modern PHP Developer](https://www.udemy.com/course/complete-modern-php-developer) | PHP
-- 
+  
 ### **Projects**
 - [YelpCamp](https://github.com/CodyCardinal/YelpCamp) | Full Stack | Javascript, Node, MongoDB, HTML, CSS, Bootstrap | Heroku Hosting
 - [CS50x Final Project](https://github.com/CodyCardinal/CS50Final) | Full Stack | Python, Flask, HTML, CSS, Bootstrap, SQLite

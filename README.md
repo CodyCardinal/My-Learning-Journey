@@ -1,6 +1,6 @@
 # My Learning Journey
 
-![DevOps Image](DevOpsPlan.png)
+![DevOps Image](CICD2.png)
 
 ## **Current**
 - **October 2023:** 

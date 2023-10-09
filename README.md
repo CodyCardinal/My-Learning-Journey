@@ -27,7 +27,7 @@
   
 ### **Projects**
 - [YelpCamp](https://github.com/CodyCardinal/YelpCamp) | Full Stack | Javascript, Node, MongoDB, HTML, CSS, Bootstrap | Heroku Hosting
-- [CS50x Final Project](https://github.com/CodyCardinal/CS50Final) | Full Stack | Python, Flask, HTML, CSS, Bootstrap, SQLite
+- [Brain Gains CS50x Final Project](https://github.com/CodyCardinal/BrainGains) | Full Stack | Python, Flask, HTML, CSS, Bootstrap, SQLite
 - [www.davinafaye.com](https://www.davinafaye.com) | Full Stack | Python, Flask, NginX, Gunicorn, HTML, CSS, Bootstrap | DigitalOcean Hosting
 - [A Security Ops Starter script for Cisco Umbrella Customers](https://github.com/CiscoDevNet/cloud-security/tree/master/Umbrella/Samples/SOCTools/NSD_Recheck) | Python
 - [ModernPHP](https://github.com/CodyCardinal/modernphp) | Full Stack | PHP, PHP-FPM, Apache, Docker, MySQL

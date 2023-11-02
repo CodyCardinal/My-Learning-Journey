@@ -12,7 +12,6 @@
 - [Harvey Mudd College: Computer Architecture](https://www.edx.org/learn/engineering/harvey-mudd-college-computer-architecture)
 - [The University of California, San Diego: Data Structures: An Active Learning Approach](https://www.edx.org/learn/computer-science/the-university-of-california-san-diego-data-structures-an-active-learning-approach)
 
-- **Scheduled:** ENG: (Foundation) Intro to Containers
 - **Scheduled:** ENG: (Foundation) Kubernetes and Docker Container Foundations
 
 ### **Completed**
@@ -24,6 +23,8 @@
 - **July 2023:** [The Web Developer Bootcamp 2023](https://www.udemy.com/course/the-web-developer-bootcamp) | HTML, CSS, Bootstrap, Javascript, AJAX, React, Node, MongoDB, and more.
 - **September 2023:** [PHP for Complete Beginners](https://www.udemy.com/course/php-for-complete-beginners-includes-msql-object-oriented) | PHP, MYSQL, OOP, Apache
 - **September 2023:** [The Complete Modern PHP Developer](https://www.udemy.com/course/complete-modern-php-developer) | PHP
+- **October 2023** ENG: (Foundation) Intro to Containers | Docker, Kubernetes
+- **October 2023** Zero To Mastery Linux Systems Administration | Linux, Ansible, Docker, Apache, PHP, Mysql
   
 ### **Projects**
 - [YelpCamp](https://github.com/CodyCardinal/YelpCamp) | Full Stack | Javascript, Node, MongoDB, HTML, CSS, Bootstrap | Heroku Hosting

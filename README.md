@@ -14,8 +14,8 @@
 - [The University of California, San Diego: Data Structures: An Active Learning Approach](https://www.edx.org/learn/computer-science/the-university-of-california-san-diego-data-structures-an-active-learning-approach)
 
 ### **Completed**
-- **October 2023** ENG: (Foundation) Intro to Containers | Docker, Kubernetes
-- **October 2023** Zero To Mastery Linux Systems Administration | Linux, Ansible, Docker, Apache, PHP, MySQL
+- **October 2023:** ENG: (Foundation) Intro to Containers | Docker, Kubernetes
+- **October 2023:** Zero To Mastery Linux Systems Administration | Linux, Ansible, Docker, Apache, PHP, MySQL
 - **September 2023:** [The Complete Modern PHP Developer](https://www.udemy.com/course/complete-modern-php-developer) | PHP
 - **September 2023:** [PHP for Complete Beginners](https://www.udemy.com/course/php-for-complete-beginners-includes-msql-object-oriented) | PHP, MYSQL, OOP, Apache
 - **July 2023:** [The Web Developer Bootcamp 2023](https://www.udemy.com/course/the-web-developer-bootcamp) | HTML, CSS, Bootstrap, Javascript, AJAX, React, Node, MongoDB, and more.

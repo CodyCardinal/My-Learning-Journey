@@ -3,7 +3,6 @@
 ![DevOps Image](CICD2.png)
 
 ## **Current**
-- **Nov 2023:** ENG: (Foundation) Kubernetes and Docker Container Foundations | Docker, Kubernetes
 - **October 2023:** [Zero to Mastery: DevOps Career Path](https://zerotomastery.io/career-paths/become-a-devops-engineer/)
 - **September 2023:** [PHP & MySQL Book by John Duckett](https://phpandmysql.com/) | PHP
 - **July 2023:** [MIT OpenCourseware Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/) | Discrete Mathematics
@@ -14,6 +13,7 @@
 - [The University of California, San Diego: Data Structures: An Active Learning Approach](https://www.edx.org/learn/computer-science/the-university-of-california-san-diego-data-structures-an-active-learning-approach)
 
 ### **Completed**
+- **Nov 2023:** ENG: (Foundation) Kubernetes and Docker Container Foundations | Docker, Kubernetes
 - **October 2023:** ENG: (Foundation) Intro to Containers | Docker, Kubernetes
 - **October 2023:** Zero To Mastery Linux Systems Administration | Linux, Ansible, Docker, Apache, PHP, MySQL
 - **September 2023:** [The Complete Modern PHP Developer](https://www.udemy.com/course/complete-modern-php-developer) | PHP
@@ -26,9 +26,9 @@
 - **May 2022:** ENG (Foundation) Introduction to Python for Non-Programmers by [Reuven Lerner](https://twitter.com/reuvenmlerner) | Python
   
 ### **Projects**
-- [YelpCamp](https://github.com/CodyCardinal/YelpCamp) | Full Stack | Javascript, Node, MongoDB, HTML, CSS, Bootstrap | Heroku Hosting
+- [YelpCamp](https://github.com/CodyCardinal/YelpCamp) | Full Stack | Production, Javascript, Node, MongoDB, HTML, CSS, Bootstrap | Heroku Hosting
 - [Brain Gains CS50x Final Project](https://github.com/CodyCardinal/BrainGains) | Full Stack | Python, Flask, HTML, CSS, Bootstrap, SQLite
-- [www.davinafaye.com](https://www.davinafaye.com) | Full Stack | Python, Flask, NginX, Gunicorn, HTML, CSS, Bootstrap | DigitalOcean Hosting
+- [www.davinafaye.com](https://www.davinafaye.com) | Full Stack | Production, Python, Flask, NginX, Gunicorn, HTML, CSS, Bootstrap | DigitalOcean Hosting
 - [A Security Ops Starter script for Cisco Umbrella Customers](https://github.com/CiscoDevNet/cloud-security/tree/master/Umbrella/Samples/SOCTools/NSD_Recheck) | Python
 - [ModernPHP](https://github.com/CodyCardinal/modernphp) | Full Stack | PHP, PHP-FPM, Apache, Docker, MySQL
 - [My Cisco Github](https://github.com/ccardina)

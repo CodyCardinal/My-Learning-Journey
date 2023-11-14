@@ -3,6 +3,7 @@
 ![DevOps Image](CICD2.png)
 
 ## **Current**
+- **Nov 2023:** AWS Certified Cloud Practitioner ZTM Course.
 - **October 2023:** [Zero to Mastery: DevOps Career Path](https://zerotomastery.io/career-paths/become-a-devops-engineer/)
 - **September 2023:** [PHP & MySQL Book by John Duckett](https://phpandmysql.com/) | PHP
 - **July 2023:** [MIT OpenCourseware Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/) | Discrete Mathematics

@@ -3,6 +3,7 @@
 ![DevOps Image](CICD2.png)
 
 ## **Current**
+- **Nov 2023:** Development Cisco Cloud Security Automated Health Check | PHP, JS, React
 - **Nov 2023:** AWS Certified Cloud Practitioner ZTM Course.
 - **October 2023:** [Zero to Mastery: DevOps Career Path](https://zerotomastery.io/career-paths/become-a-devops-engineer/)
 - **September 2023:** [PHP & MySQL Book by John Duckett](https://phpandmysql.com/) | PHP
@@ -27,6 +28,7 @@
 - **May 2022:** ENG (Foundation) Introduction to Python for Non-Programmers by [Reuven Lerner](https://twitter.com/reuvenmlerner) | Python
   
 ### **Projects**
+- [Mark Barry Sound Inc](https://www.markbarrysound.com) | Full Stack | Production, Javascript, Node, MongoDB, HTML, CSS, Bootstrap | Digital Ocean Hosting
 - [YelpCamp](https://github.com/CodyCardinal/YelpCamp) | Full Stack | Production, Javascript, Node, MongoDB, HTML, CSS, Bootstrap | Heroku Hosting
 - [Brain Gains CS50x Final Project](https://github.com/CodyCardinal/BrainGains) | Full Stack | Python, Flask, HTML, CSS, Bootstrap, SQLite
 - [www.davinafaye.com](https://www.davinafaye.com) | Full Stack | Production, Python, Flask, NginX, Gunicorn, HTML, CSS, Bootstrap | DigitalOcean Hosting

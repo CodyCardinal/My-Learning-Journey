@@ -3,7 +3,9 @@
 ![DevOps Image](CICD2.png)
 
 ## **Current**
-- **Nov 2023:** Development Cisco Cloud Security Automated Health Check | PHP, JS, React
+- **Nov 2023:** Cisco CX Cloud Security Internal Automated Health Check | PHP, JS, React
+  
+### **Paused during app development** 
 - **Nov 2023:** AWS Certified Cloud Practitioner ZTM Course.
 - **October 2023:** [Zero to Mastery: DevOps Career Path](https://zerotomastery.io/career-paths/become-a-devops-engineer/)
 - **September 2023:** [PHP & MySQL Book by John Duckett](https://phpandmysql.com/) | PHP

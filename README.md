@@ -1,9 +1,10 @@
 # My Learning Journey
 
-![DevOps Image](CICD2.png)
+A combination of being a technical leader, SME with Cisco Umbrella, and desire to code and automate my process lead to a new position at Cisco. I'm now part of our Strategy and Planning team helping work towards standardization of Customer Success delivery across our portfolio of Cloud Security software. Recently, I've been given the opportunity to develop an in-house tool for producing an automatically generated health and configuration report for Cisco Customer Success. This will likely give me roughly 6 months of full time development experience producing this internal tool. The tool should augment renewal rates for hundreds of millions in renewals revenue at Cisco. 
 
 ## **Current**
-- **Nov 2023:** Cisco CX Cloud Security Internal Automated Health Check | PHP, JS, React
+- **Nov 2023:** Cisco CX Cloud Security Internal Automated Health Check | PHP, JS
+- **Feb 2024:** NeedCode.io Algorithms & Data Structures, System Design Courses
   
 ### **Paused**
 - **Nov 2023:** AWS Certified Cloud Practitioner ZTM Course.
@@ -36,18 +37,17 @@
 - [www.davinafaye.com](https://www.davinafaye.com) | Full Stack | Production, Python, Flask, NginX, Gunicorn, HTML, CSS, Bootstrap | DigitalOcean Hosting
 - [A Security Ops Starter script for Cisco Umbrella Customers](https://github.com/CiscoDevNet/cloud-security/tree/master/Umbrella/Samples/SOCTools/NSD_Recheck) | Python
 - [ModernPHP](https://github.com/CodyCardinal/modernphp) | Full Stack | PHP, PHP-FPM, Apache, Docker, MySQL
-- [My Cisco Github](https://github.com/ccardina)
 
 **Languages**
-- Python, PHP, Javascript
-- SQL, MongoDB, MariaDB
-- HTML, CSS, Bootstrap, React
-- C
+- Python, PHP, C
+- SQL
+- HTML, CSS, Bootstrap, Javascript
 
 **Frameworks and Tools**
-- Node, Express, MongoDB
+- Node, Express, MongoDB, React
 - Flask, SQLite
-- Docker, Docker-Compose
+- Apache, Redis
+- Docker
 
 **Software Company Experience**
 - [LinkedIn](https://www.linkedin.com/in/cody-cardinal-896b661b/)

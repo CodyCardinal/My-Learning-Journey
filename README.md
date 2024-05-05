@@ -1,6 +1,6 @@
 # My Learning Journey
 
-A combination of being a technical leader, SME with Cisco Umbrella, and desire to code and automate my process lead to a new position at Cisco. I'm now part of our Strategy and Planning team helping work towards standardization of Customer Success delivery across our portfolio of Cloud Security software. Recently, I've been given the opportunity to develop an in-house tool for producing an automatically generated health and configuration report for Cisco Customer Success. This will likely give me roughly 6 months of full time development experience producing this internal tool. The tool should augment renewal rates for hundreds of millions in renewals revenue at Cisco. 
+A combination of being a technical leader, SME with Cisco Umbrella, and a desire to automate lead me to a new position for at Cisco. I'm now a Strategy and Planning Manager, working towards standardization of Customer Success delivery across our Cloud Security SaaS portfolio. Recently, I've been given the opportunity to develop an in-house tool for producing an automatically generated health and configuration report for Cisco Customer Success. This will likely give me roughly 6 months of full time development experience producing this internal tool. The tool should augment renewal rates for hundreds of millions in renewals revenue at Cisco. 
 
 ## **Current**
 - **May 2024:** [AWS Certified Solutions Architect](https://learn.cantrill.io/courses/1820301) | AWS
@@ -49,7 +49,7 @@ A combination of being a technical leader, SME with Cisco Umbrella, and desire t
 
 **Software Company Experience**
 - [LinkedIn](https://www.linkedin.com/in/cody-cardinal-896b661b/)
-- **Cisco:** 4 years+ **Current** | Technical Account Manager > Team Lead > Technical Leader
+- **Cisco:** 5 years+ **Current** | Technical Account Manager > Team Lead > Technical Leader
 - **Cygilant:** 3 years, 6 months | Service Delivery Manager > Cybersecurity Advisor
 - **Sophos:** 4 years, 2 months | Technical Support Engineer > Technical Support Account Manager
 - And More! IT experience since a high school internship in 2003.

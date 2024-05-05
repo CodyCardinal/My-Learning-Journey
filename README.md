@@ -49,7 +49,7 @@ A combination of being a technical leader, SME with Cisco Umbrella, and a desire
 
 **Software Company Experience**
 - [LinkedIn](https://www.linkedin.com/in/cody-cardinal-896b661b/)
-- **Cisco:** 5 years+ **Current** | Technical Account Manager > Team Lead > Technical Leader
+- **Cisco:** 5 years+ **Current** | Technical Account Manager > Team Lead > Technical Leader > Strategy and Planning Manager
 - **Cygilant:** 3 years, 6 months | Service Delivery Manager > Cybersecurity Advisor
 - **Sophos:** 4 years, 2 months | Technical Support Engineer > Technical Support Account Manager
 - And More! IT experience since a high school internship in 2003.

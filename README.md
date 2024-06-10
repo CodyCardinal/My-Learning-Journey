@@ -1,20 +1,20 @@
 # My Learning Journey
 
-A combination of being a technical leader, SME with Cisco Umbrella, and a desire to automate lead me to a new position for at Cisco. I'm now a Strategy and Planning Manager, working towards standardization of Customer Success delivery across our Cloud Security SaaS portfolio. Recently, I've been given the opportunity to develop an in-house tool for producing an automatically generated health and configuration report for Cisco Customer Success. This will likely give me roughly 6 months of full time development experience producing this internal tool. The tool should augment renewal rates for hundreds of millions in renewals revenue at Cisco. 
+A combination of being a technical leader, SME for Cisco Umbrella, and a desire to automate lead me to a new position at Cisco. I'm now a Strategy and Planning Manager, working towards standardization of Customer Success delivery across our Cloud Security SaaS portfolio. Recently, I've been given the opportunity to develop an in-house tool for producing an automatically generated health and configuration report for Cisco Customer Success. This is part of our delivery for our Enhanced and Premium Support packages. This has already given me 6 months of full time development experience producing this internal tool. The tool should augment renewal rates for hundreds of millions of renewals revenue at Cisco. 
 
 ## **Current**
 - **May 2024:** [AWS Certified Solutions Architect](https://learn.cantrill.io/courses/1820301) | AWS
-- **Feb 2024:** NeetCode.io Algorithms & Data Structures, System Design Courses
-- **Dec 2023:** Cisco CX Cloud Security Internal Automated Health Check | PHP, JS
+- **Dec 2023 to Current** Cisco CX Cloud Security Internal Automated Health Check | PHP, JS, AWS, Jenkins, Terraform, Terragrunt
 
 ### **Next**
 - [MIT OpenCourseware Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/) | Discrete Mathematics
 - [Harvey Mudd College: Digital Design](https://www.edx.org/learn/engineering/harvey-mudd-college-digital-design-2)
 - [Harvey Mudd College: Computer Architecture](https://www.edx.org/learn/engineering/harvey-mudd-college-computer-architecture)
 - [The University of California, San Diego: Data Structures: An Active Learning Approach](https://www.edx.org/learn/computer-science/the-university-of-california-san-diego-data-structures-an-active-learning-approach)
+- [NeetCode.io](https://neetcode.io) Algorithms & Data Structures, System Design Courses
 
 ### **Completed**
-- **April 2023:** [Secure Code Warrior](https://www.securecodewarrior.com/) | PHP
+- **April 2024:** [Secure Code Warrior](https://www.securecodewarrior.com/) | PHP
 - **September 2023:** [PHP & MySQL Book by John Duckett](https://phpandmysql.com/) | PHP
 - **Nov 2023:** ENG: (Foundation) Kubernetes and Docker Container Foundations | Docker, Kubernetes
 - **October 2023:** ENG: (Foundation) Intro to Containers | Docker, Kubernetes

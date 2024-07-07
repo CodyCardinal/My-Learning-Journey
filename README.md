@@ -14,6 +14,7 @@ A combination of being a technical leader, SME for Cisco Umbrella, and a desire 
 - [NeetCode.io](https://neetcode.io) Algorithms & Data Structures, System Design Courses
 
 ### **Completed**
+- **July 2024:** [Zero to Mastery Terraform Certification](https://zerotomastery.io/courses/learn-terraform-certification/) | Terraform
 - **April 2024:** [Secure Code Warrior](https://www.securecodewarrior.com/) | PHP
 - **September 2023:** [PHP & MySQL Book by John Duckett](https://phpandmysql.com/) | PHP
 - **Nov 2023:** ENG: (Foundation) Kubernetes and Docker Container Foundations | Docker, Kubernetes

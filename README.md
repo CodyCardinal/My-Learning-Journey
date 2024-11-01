@@ -1,6 +1,6 @@
 # My Learning Journey
 
-A combination of being a technical leader, SME for Cisco Umbrella, and a desire to automate lead me to a new position at Cisco. I'm now a Strategy and Planning Manager, working towards standardization of Customer Success delivery across our Cloud Security SaaS portfolio. Recently, I've been given the opportunity to develop an in-house tool for producing an automatically generated health and configuration report for Cisco Customer Success. This is part of our delivery for our Enhanced and Premium Support packages. This has already given me 6 months of full time development experience producing this internal tool. The tool should augment renewal rates for hundreds of millions of renewals revenue at Cisco. 
+A combination of being a technical leader, SME for Cisco Umbrella, and a desire to automate lead me to a new position at Cisco. I'm now a Global Technical Leader, working towards standardization of Customer Success delivery across our Cloud Security SaaS portfolio. Recently, I've pitched and was given the opportunity to develop an in-house full stack web app for producing an automatically generated health and configuration reports for Cisco Customer Success. This has already given me 11 months of full time development experience collaborating to produce this internal tool. The tool should augment renewal rates for hundreds of millions of renewals revenue at Cisco. 
 
 ## **Current**
 - **May 2024:** [AWS Certified Solutions Architect](https://learn.cantrill.io/courses/1820301) | AWS
@@ -34,7 +34,7 @@ A combination of being a technical leader, SME for Cisco Umbrella, and a desire 
 - [YelpCamp](https://github.com/CodyCardinal/YelpCamp) | Full Stack | Production, Javascript, Node, MongoDB, HTML, CSS, Bootstrap | Heroku Hosting
 - [Brain Gains CS50x Final Project](https://github.com/CodyCardinal/BrainGains) | Full Stack | Python, Flask, HTML, CSS, Bootstrap, SQLite
 - [www.davinafaye.com](https://www.davinafaye.com) | Full Stack | Production, Python, Flask, NginX, Gunicorn, HTML, CSS, Bootstrap | DigitalOcean Hosting
-- [A Security Ops Starter script for Cisco Umbrella Customers](https://github.com/CiscoDevNet/cloud-security/tree/master/Umbrella/Samples/SOCTools/NSD_Recheck) | Python
+- [SecOps Automation script for Cisco Umbrella Customers](https://github.com/CiscoDevNet/cloud-security/tree/master/Umbrella/Samples/SOCTools/NSD_Recheck) | Python
 - [ModernPHP](https://github.com/CodyCardinal/modernphp) | Full Stack | PHP, PHP-FPM, Apache, Docker, MySQL
 
 **Languages**
@@ -45,12 +45,12 @@ A combination of being a technical leader, SME for Cisco Umbrella, and a desire 
 **Frameworks and Tools**
 - Node, Express, MongoDB, React
 - Flask, SQLite
-- Apache, Redis
-- Docker
+- Apache, NGINX, Redis
+- Docker, Jenkins, SonarQube
 
 **Software Company Experience**
 - [LinkedIn](https://www.linkedin.com/in/cody-cardinal-896b661b/)
-- **Cisco:** 5 years+ **Current** | Technical Account Manager > Team Lead > Technical Leader > Strategy and Planning Manager
+- **Cisco:** 5 years+ **Current** | Technical Account Manager > NA Team Lead > Global TAM Technical Leader > Global CX Technical Leader
 - **Cygilant:** 3 years, 6 months | Service Delivery Manager > Cybersecurity Advisor
 - **Sophos:** 4 years, 2 months | Technical Support Engineer > Technical Support Account Manager
-- And More! IT experience since a high school internship in 2003.
+- And More! IT experience since a high school internship in 2002.

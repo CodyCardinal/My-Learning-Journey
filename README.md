@@ -1,6 +1,7 @@
 # My Learning Journey
 
 A combination of being a technical leader, SME for Cisco Umbrella, and a desire to automate lead me to a new position at Cisco. I'm now a Global Technical Leader, working towards standardization of Customer Success delivery across our Cloud Security SaaS portfolio. Recently, I've pitched and was given the opportunity to develop an in-house full stack web app for producing an automatically generated health and configuration reports for Cisco Customer Success. This has already given me 11 months of full time development experience collaborating to produce this internal tool. The tool should augment renewal rates for hundreds of millions of renewals revenue at Cisco. 
+![Github Progress Image](https://github.com/CodyCardinal/My-Learning-Journey/blob/main/GithubProgress.jpg)
 
 ## **Current**
 - **May 2024:** [AWS Certified Solutions Architect](https://learn.cantrill.io/courses/1820301) | AWS
